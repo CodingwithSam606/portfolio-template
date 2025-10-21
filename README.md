@@ -37,7 +37,7 @@ portfolio-template/
 
 ⚙️ How to Use
 1. Clone or Download the Repository
-git clone https://github.com/your-username/portfolio-template.git
+git clone [https://github.com/your-username/portfolio-template.git](https://github.com/CodingwithSam606/portfolio-template.git)
 
 2. Open the Project
 
