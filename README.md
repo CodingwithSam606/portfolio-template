@@ -55,7 +55,8 @@ Design & Colors: Modify /css/style.css to change colors, fonts, or layout.
 
 🖼️ Preview
 
-(Optional — include a screenshot of your portfolio homepage)
+<img width="1366" height="685" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/d2490c01-f604-438b-a055-cbf9a75ac3c8" />
+
 
 
 🧠 Note
